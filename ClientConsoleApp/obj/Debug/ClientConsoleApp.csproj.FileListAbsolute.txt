@@ -1,0 +1,7 @@
+C:\dev\CroweHorwath.HelloWorld\ClientConsoleApp\bin\Debug\ClientConsoleApp.exe.config
+C:\dev\CroweHorwath.HelloWorld\ClientConsoleApp\bin\Debug\ClientConsoleApp.exe
+C:\dev\CroweHorwath.HelloWorld\ClientConsoleApp\bin\Debug\ClientConsoleApp.pdb
+C:\dev\CroweHorwath.HelloWorld\ClientConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\dev\CroweHorwath.HelloWorld\ClientConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\dev\CroweHorwath.HelloWorld\ClientConsoleApp\obj\Debug\ClientConsoleApp.exe
+C:\dev\CroweHorwath.HelloWorld\ClientConsoleApp\obj\Debug\ClientConsoleApp.pdb
